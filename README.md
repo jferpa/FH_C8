@@ -4,4 +4,4 @@
 Laboratorio1 de FH
 
 Prueba con el siguiente link:
-[FC_C8](FH_C8-yoferpatlv.surge.sh)
+<a href="FH_C8-yoferpatlv.surge.sh" target="_blank">FH_C8</a>
